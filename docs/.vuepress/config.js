@@ -7,8 +7,7 @@ module.exports = {
     editLinks: false,
     docsDir: 'docs',
     nav: [],
-    sidebar: [
-      {
+    sidebar: [{
         title: '初识 TypeScript',
         collapsable: false,
         children: [
@@ -126,15 +125,7 @@ module.exports = {
         'title': 'ts-axios 部署与发布',
         collapsable: false,
         children: [
-          'chapter12/build-deploy',
-          'chapter12/demo'
-        ]
-      },
-      {
-        'title': '课程总结',
-        collapsable: false,
-        children: [
-          'chapter13/summary'
+          'chapter12/build-deploy'
         ]
       }
     ]
