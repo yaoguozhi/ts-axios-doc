@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.44"
+    "vuepress": "^1.9.7"
   }
 }
